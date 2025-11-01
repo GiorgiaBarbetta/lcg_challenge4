@@ -1,0 +1,19 @@
+html, body {
+  margin: 25px;
+  margin-bottom: 0;
+  padding: 0;
+  background-color: #122B42;
+}
+
+canvas {
+  display: block;
+  
+}
+
+h1 {
+  font-size: 20px;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  text-align: center;
+  margin-top: 30px;
+  color: #EEF0F2;
+}
